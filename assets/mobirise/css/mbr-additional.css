@@ -105,7 +105,7 @@ body {
   background-color: #0886ff !important;
 }
 .bg-danger {
-  background-color: #b1a374 !important;
+  background-color: #0496fc !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -209,8 +209,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #b1a374 !important;
-  border-color: #b1a374 !important;
+  background-color: #0496fc !important;
+  border-color: #0496fc !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -218,14 +218,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #8b7d4e !important;
-  border-color: #8b7d4e !important;
+  background-color: #0269b1 !important;
+  border-color: #0269b1 !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #8b7d4e !important;
-  border-color: #8b7d4e !important;
+  background-color: #0269b1 !important;
+  border-color: #0269b1 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -373,22 +373,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #7a6e45;
-  color: #7a6e45;
+  border-color: #025a98;
+  color: #025a98;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #b1a374;
-  border-color: #b1a374;
+  background-color: #0496fc;
+  border-color: #0496fc;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #b1a374 !important;
-  border-color: #b1a374 !important;
+  background-color: #0496fc !important;
+  border-color: #0496fc !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -440,7 +440,7 @@ body {
   color: #0886ff !important;
 }
 .text-danger {
-  color: #b1a374 !important;
+  color: #0496fc !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -470,7 +470,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #7a6e45 !important;
+  color: #025a98 !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -490,7 +490,7 @@ a.text-black:focus {
   background-color: #0886ff;
 }
 .alert-danger {
-  background-color: #b1a374;
+  background-color: #0496fc;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -540,7 +540,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #dfd9c6;
+  color: #ceeafe;
 }
 /* Scroll to top button*/
 #scrollToTop a {
@@ -711,23 +711,8 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rW9RKvr7JG {
-  background-image: url("../../../assets/images/mbr-2.jpg");
-}
-.cid-rW9RKvr7JG .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
-.cid-rW9RKvr7JG .media-container-column {
-  background-color: #481d38;
-}
-@media (max-width: 767px) {
-  .cid-rW9RKvr7JG .media-container-column {
-    padding: 1rem !important;
-  }
-}
-.cid-rW9RKvr7JG .mbr-text,
-.cid-rW9RKvr7JG .mbr-section-btn {
-  text-align: left;
+.cid-rXnuWjSDvj {
+  background-image: url("../../../assets/images/selective-focus-photo-of-green-telephone-955081.webp");
 }
 .cid-rW9YzAyVnh {
   padding-top: 30px;
@@ -854,7 +839,7 @@ section.lazy-placeholder:after {
 .cid-rWa7p7RavW {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/coding-computer-data-depth-of-field-577585.jpg");
+  background-image: url("../../../assets/images/coding-computer-data-depth-of-field-577585.webp");
 }
 .cid-rWaghJDhdz {
   padding-top: 0px;
@@ -874,7 +859,7 @@ section.lazy-placeholder:after {
 .cid-rWa7GpRo2V {
   padding-top: 75px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/dell-motherboard-and-central-processing-unit-1432675.jpg");
+  background-image: url("../../../assets/images/close-up-photography-of-dell-motherboard-1432674.webp");
 }
 .cid-rWa7GpRo2V .mbr-text,
 .cid-rWa7GpRo2V .mbr-section-btn {
@@ -884,12 +869,12 @@ section.lazy-placeholder:after {
 .cid-rW9mhgyeRH {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/coding-computer-data-depth-of-field-577585.jpg");
+  background-image: url("../../../assets/images/coding-computer-data-depth-of-field-577585.webp");
 }
 .cid-rW9mlud3RD {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/apple-applications-apps-cell-phone-607812.jpg");
+  background-image: url("../../../assets/images/adult-books-business-coffee-374016.webp");
 }
 .cid-rW9mlud3RD h2 {
   margin-bottom: 0;
@@ -938,7 +923,7 @@ section.lazy-placeholder:after {
 }
 .cid-rW9mlud3RD H2 {
   text-align: center;
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rW9vBqgqHZ {
   padding-top: 60px;
@@ -1015,5 +1000,5 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rW9hQf4kpQ {
-  background-image: url("../../../assets/images/business-computer-connection-contemporary-450035.jpg");
+  background-image: url("../../../assets/images/business-computer-connection-contemporary-450035.webp");
 }
