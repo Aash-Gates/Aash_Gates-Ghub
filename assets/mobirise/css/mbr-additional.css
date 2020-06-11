@@ -96,7 +96,7 @@ body {
   background-color: #0496fc !important;
 }
 .bg-success {
-  background-color: #542a9b !important;
+  background-color: #b41d43 !important;
 }
 .bg-info {
   background-color: #0f7699 !important;
@@ -169,8 +169,8 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #542a9b !important;
-  border-color: #542a9b !important;
+  background-color: #b41d43 !important;
+  border-color: #b41d43 !important;
   color: #ffffff !important;
 }
 .btn-success:hover,
@@ -178,14 +178,14 @@ body {
 .btn-success.focus,
 .btn-success.active {
   color: #ffffff !important;
-  background-color: #331a5f !important;
-  border-color: #331a5f !important;
+  background-color: #72122a !important;
+  border-color: #72122a !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #331a5f !important;
-  border-color: #331a5f !important;
+  background-color: #72122a !important;
+  border-color: #72122a !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -333,22 +333,22 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #29144b;
-  color: #29144b;
+  border-color: #5c0f22;
+  color: #5c0f22;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
   color: #ffffff;
-  background-color: #542a9b;
-  border-color: #542a9b;
+  background-color: #b41d43;
+  border-color: #b41d43;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #542a9b !important;
-  border-color: #542a9b !important;
+  background-color: #b41d43 !important;
+  border-color: #b41d43 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -431,7 +431,7 @@ body {
   color: #ea1a1a !important;
 }
 .text-success {
-  color: #542a9b !important;
+  color: #b41d43 !important;
 }
 .text-info {
   color: #0f7699 !important;
@@ -458,7 +458,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #29144b !important;
+  color: #5c0f22 !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -528,7 +528,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #956dd7;
+  color: #e76a89;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -712,7 +712,7 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rXnuWjSDvj {
-  background-image: url("../../../assets/images/selective-focus-photo-of-green-telephone-955081.webp");
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-rW9YzAyVnh {
   padding-top: 30px;
