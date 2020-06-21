@@ -801,6 +801,7 @@ section.lazy-placeholder:after {
 }
 .cid-rWyVs5IWF8 .mbr-author-name {
   color: #06b9f7;
+  text-align: center;
 }
 .cid-rWyVs5IWF8 .mbr-testimonial .panel-item {
   background-color: #ffffff;
@@ -1002,4 +1003,76 @@ section.lazy-placeholder:after {
 }
 .cid-rW9hQf4kpQ {
   background-image: url("../../../assets/images/business-computer-connection-contemporary-450035.webp");
+}
+.cid-s1G0RmwxBc {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1.jpg");
+}
+.cid-s1G0RmwxBc .progress {
+  width: 100%;
+}
+.cid-s1G0RmwxBc progress {
+  height: 8px;
+}
+.cid-s1G0RmwxBc h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-s1G0RmwxBc .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s1G0RmwxBc .progress_value {
+  position: relative;
+}
+.cid-s1G0RmwxBc .progress_elements {
+  margin: 0 auto;
+}
+.cid-s1G0RmwxBc .title-wrap {
+  display: flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+.cid-s1G0RmwxBc .progress1 .progressbar-number:before,
+.cid-s1G0RmwxBc .progress2 .progressbar-number:before,
+.cid-s1G0RmwxBc .progress3 .progressbar-number:before,
+.cid-s1G0RmwxBc .progress4 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
+}
+.cid-s1G0RmwxBc progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-s1G0RmwxBc progress::-webkit-progress-value {
+  background: #149dcc;
+}
+.cid-s1G0RmwxBc progress[value]::-moz-progress-bar {
+  background: #149dcc;
+}
+.cid-s1G0RmwxBc progress::-ms-fill {
+  background: #149dcc;
+}
+.cid-s1G0RmwxBc .progress1 .progressbar-number:before {
+  content: '53';
+}
+.cid-s1G0RmwxBc .progress2 .progressbar-number:before {
+  content: '66';
+}
+.cid-s1G0RmwxBc .progress3 .progressbar-number:before {
+  content: '74';
+}
+.cid-s1G0RmwxBc .progress4 .progressbar-number:before {
+  content: '13';
+}
+.cid-s1G0RmwxBc .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-s1G0RmwxBc .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-s1G0RmwxBc .progress_value span {
+  padding-left: 30px;
 }
