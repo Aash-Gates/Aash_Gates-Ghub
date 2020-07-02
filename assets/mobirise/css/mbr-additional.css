@@ -784,7 +784,7 @@ section.lazy-placeholder:after {
 .cid-rWyVs5IWF8 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/group-of-people-having-fun-together-under-the-sun-708392.webp");
+  background-image: url("../../../assets/images/mbr-2.jpg");
 }
 .cid-rWyVs5IWF8 .mbr-section-subtitle {
   color: #ff3366;
@@ -840,6 +840,74 @@ section.lazy-placeholder:after {
     width: 100% !important;
     height: auto !important;
   }
+}
+.cid-s3BknBXHQO {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/coding-computer-data-depth-of-field-577585.webp");
+}
+@media (max-width: 767px) {
+  .cid-s3BknBXHQO .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-s3BknBXHQO .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-s3BknBXHQO .media-wrap img {
+  height: 6rem;
+}
+.cid-s3BknBXHQO .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-s3BknBXHQO .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-s3BknBXHQO .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-s3BknBXHQO .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-s3BknBXHQO .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-s3BknBXHQO .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-s3BknBXHQO .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-s3BknBXHQO .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-s3BknBXHQO .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-s3BknBXHQO .copyright > p {
+  color: #0496fc;
+  text-align: left;
 }
 .cid-rWa7p7RavW {
   padding-top: 60px;
