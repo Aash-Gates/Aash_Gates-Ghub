@@ -966,8 +966,8 @@ section.lazy-placeholder:after {
   margin-bottom: 0;
 }
 .cid-rW9mlud3RD .card-wrapper {
-  border-top: 1px solid #efefef;
-  background-color: #ffffff;
+  border-top: 1px solid #0496fc;
+  background-color: #efefef;
   position: relative;
   justify-content: unset;
 }
@@ -1003,8 +1003,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rW9vBqgqHZ {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
