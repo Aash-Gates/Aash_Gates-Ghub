@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-14_2112",
-    "currentPage": "index.html",
+    "currentPage": "Bio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -86,7 +86,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "Socials.html": {
