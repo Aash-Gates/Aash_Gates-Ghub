@@ -574,32 +574,6 @@ blockquote {
 .mbr-form .input-group-btn button[type="submit"]:hover {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
 }
-.form2 .form-control {
-  border-top-left-radius: 100px;
-  border-bottom-left-radius: 100px;
-}
-.form2 .input-group-btn a.btn {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form2 .input-group-btn button[type="submit"] {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form3 input[type="email"] {
-  border-radius: 100px !important;
-}
-@media (max-width: 349px) {
-  .form2 input[type="email"] {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn a.btn {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn button[type="submit"] {
-    border-radius: 100px !important;
-  }
-}
 @media (max-width: 767px) {
   .btn {
     font-size: .75rem !important;
@@ -783,7 +757,7 @@ section.lazy-placeholder:after {
 }
 .cid-rW9YzAyVnh .links {
   text-align: right;
-  color: #232323;
+  color: #ea1a1a;
 }
 .cid-rWyVs5IWF8 {
   padding-top: 90px;
@@ -916,12 +890,12 @@ section.lazy-placeholder:after {
 .cid-rWa7p7RavW {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/coding-computer-data-depth-of-field-577585.webp");
+  background-image: url("../../../assets/images/pexels-photo-340152.jpeg");
 }
 .cid-rWaghJDhdz {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #232323;
+  background-color: #2b0811;
 }
 .cid-rWaghJDhdz .mbr-section-subtitle {
   color: #767676;
@@ -934,14 +908,14 @@ section.lazy-placeholder:after {
   color: #efefef;
 }
 .cid-rWa7GpRo2V {
-  padding-top: 75px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/suit-869380.webp");
+  padding-top: 90px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/pexels-photo-2247181.webp");
 }
 .cid-rWa7GpRo2V .mbr-text,
 .cid-rWa7GpRo2V .mbr-section-btn {
   text-align: center;
-  color: #ff3366;
+  color: #ff0086;
 }
 .cid-rW9mhgyeRH {
   padding-top: 60px;
