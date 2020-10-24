@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-14_2112",
-    "currentPage": "Bio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -81,7 +81,7 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "uniqCompNum": 65,
-    "versionPublish": "5.2.0",
+    "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false,
