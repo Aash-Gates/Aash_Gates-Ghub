@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-14_2112",
-    "currentPage": "Edu.html",
+    "currentPage": "RecRev.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -60,6 +60,12 @@
         "name": "LucidaBrightDemiItalic",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/LucidaBrightDemiItalic/font.ttf"
+      },
+      {
+        "css": "'ARIALNBI'",
+        "name": "ARIALNBI",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/ARIALNBI/font.TTF"
       },
       {
         "css": "'ARIALNBI'",
