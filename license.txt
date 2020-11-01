@@ -1,12 +1,11 @@
 
    FREE LICENSE
 
- * Victory Computerts Free Templates in this package are free, you may use 
+ * Victory Computers provides these Templates in this package are free, you may use 
    it in any personal or business projects without any charge. 
    Backlinks and credits are appreciated but not mandatory.
 
- * You may NOT redistribute or resale this template, modified or 
-   unmodified.
+ * You may NOT redistribute or resale this template or modify
 
    Copyright 2019 Victory Computers, All rights reserved.
 .
