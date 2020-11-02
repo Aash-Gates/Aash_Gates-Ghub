@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aash Portfolio-clone",
-    "currentPage": "Edu.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -90,7 +90,7 @@
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "gdpr": {
       "colorText": "#7f1933",
@@ -101,6 +101,7 @@
     "uniqCompNum": 65,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false
   },
   "pages": {
